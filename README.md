@@ -1174,5 +1174,3 @@ Full configuration & usage examples can be found in our [demo project](https://g
 
   </details>
 
-newline
-newline
